@@ -1,0 +1,15 @@
+{
+  "name": "My Socket",
+  "version": "1.0.0",
+  "description": "A sample JSON file for demonstration purposes.",
+  "author": "Adebowale Tijani",
+  "license": "DECAGON",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet!\""
+  }
+}
